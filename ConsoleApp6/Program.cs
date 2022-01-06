@@ -8,6 +8,7 @@ namespace ConsoleApp6
         public string name;
         //4 A의 생성자가 인스턴스를 생성
         // 이름을 강제한다
+        //정현지바보
         public A()
         {
             //안녕
